@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ignore-me",
+        "command": "ignore-me:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ignore-me",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ignore-me:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
