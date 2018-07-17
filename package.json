@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "ignore-me:toggle"
   },
-  "repository": "https://github.com/atom/ignore-me",
+  "repository": "https://github.com/smashwilson/ignore-me",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
